@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/features/ProductManager/components/ProductForm/productform.css"],"names":[],"mappings":"AAAA,kEAEI,uBAAwB,CACxB,QACJ","file":"8.f8b12f64.chunk.css","sourcesContent":["input::-webkit-inner-spin-button,\r\ninput::-webkit-outer-spin-button{\r\n    -webkit-appearance: none;\r\n    margin: 0;\r\n}"]}
